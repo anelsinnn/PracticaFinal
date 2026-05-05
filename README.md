@@ -16,5 +16,6 @@ Esta herramienta permite el estudio de la sintaxis en gramáticas libres de cont
   * `PyQt6` (Interfaz gráfica de usuario)[cite: 1]
   * `nltk` (Manejo de gramáticas CFG y análisis sintáctico)[cite: 1]
   * `matplotlib` y `networkx` (Renderizado jerárquico de los árboles)[cite: 1]
-
+## VIDEO:
+https://youtu.be/3yk2S6cVl7c
 
