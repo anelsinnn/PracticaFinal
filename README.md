@@ -17,10 +17,4 @@ Esta herramienta permite el estudio de la sintaxis en gramáticas libres de cont
   * `nltk` (Manejo de gramáticas CFG y análisis sintáctico)[cite: 1]
   * `matplotlib` y `networkx` (Renderizado jerárquico de los árboles)[cite: 1]
 
-## 🚀 Instrucciones de Ejecución
-Para ejecutar este programa localmente, sigue estos pasos desde la terminal:
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
-   cd [NOMBRE_DE_LA_CARPETA]
